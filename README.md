@@ -6,4 +6,6 @@ Dapps on the Cardano network using the [Mesh library](https://meshjs.dev/).  Thi
 
 # Course Content
 
-Throughout the duration of this course, a branch will be created for each week. These branches will contain assignments and associated files, facilitating your learning journey.
+Throughout the duration of this course, a branch will be created for each week. These branches will contain assignments and associated files, facilitating your learning journey. You can find the content here
+
+<img src="./findContent.png" alt="drawing" width="450"/>
