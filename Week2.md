@@ -1,4 +1,4 @@
-# HvA Cardano practicum 2
+# Cardano practicum 2
 
 In this practicum we will take a look back at week one and add some more theory to it. Next to this we also continue working with the Mesh library.
 
